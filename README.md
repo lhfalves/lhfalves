@@ -1,4 +1,4 @@
-- 👋 Olá, eu sou Luiz Henrique. Fui colaborador por 12 anos na área de Seguros. \**
+- 👋 Olá, eu sou Luiz Henrique. Fui colaborador por 12 anos na área de Seguros. (\**)
      Em 2006 fiz a migração para área bancária.
   
 - 👀 Também tenho interesse na área de tecnologia e programação, onde já fiz vários cursos.
