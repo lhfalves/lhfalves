@@ -1,8 +1,9 @@
-- 👋 Olá, eu sou Luiz Henrique. Fui colaborador por 12 anos na área de Seguros. Em 2006 fiz a migração para área bancária.
+- 👋 Olá, eu sou Luiz Henrique. Fui colaborador por 12 anos na área de Seguros.
+- Em 2006 fiz a migração para área bancária.
 - 👀 Também tenho interesse na área de tecnologia e programação.
 - 🌱 Atualmente estou interessado em desenvolver meus conhecimentos em Python, Análise de Dados e outras tecnologias.. 
 - 💞️ Estou interessado em colaborar em projetos na área de programação ou na área de ensino.
-- 📫 How to reach me ...
+- 📫 Você pode me contactar no www.linkedin.com/in/luiz-henrique-16975a50 ou pelo meu email
 
 <!---
 lhfalves/lhfalves is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
