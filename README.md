@@ -1,5 +1,6 @@
 - 👋 Olá, eu sou Luiz Henrique. Fui colaborador por 12 anos na área de Seguros.
      Em 2006 fiz a migração para área bancária.
+  
 - 👀 Também tenho interesse na área de tecnologia e programação, onde já fiz vários cursos.
 - 🌱 Atualmente estou interessado em desenvolver meus conhecimentos em Python, Análise de Dados e outras tecnologias...
 - 💞️ Estou interessado em colaborar em projetos na área de programação ou na área de ensino deste tema.
